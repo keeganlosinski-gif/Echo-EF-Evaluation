@@ -1,4 +1,3 @@
-[Echo-EF-Evaluation-README (1).md](https://github.com/user-attachments/files/34098856/Echo-EF-Evaluation-README.1.md)
 # Echo EF evaluation: dataset audit and error analysis
 
 Keegan Losinski, RDCS (registered diagnostic cardiac sonographer).
